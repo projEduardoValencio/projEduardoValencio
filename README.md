@@ -10,7 +10,6 @@ Olá, me chamo Eduardo. Sou desenvolvedor full-stack e DevOps, atualmente trabal
 - 💬 Sempre disponível para uma boa discussão e oportunidades! 
 > Sempre desenvolver e se desenvolver
 
-
 ##
 
 <div class="linguagens">
@@ -71,6 +70,11 @@ Olá, me chamo Eduardo. Sou desenvolvedor full-stack e DevOps, atualmente trabal
 </div>
 
 ## 
+<div align=center>
+<img align src="https://github-readme-stats.vercel.app/api/top-langs/?username=projEduardoValencio&layout=compact&theme=dark"/>
+</div>
+
+##
 
 <h4>Contact me!</h4>
 
