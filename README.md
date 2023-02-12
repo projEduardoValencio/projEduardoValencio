@@ -12,6 +12,12 @@ Olá, me chamo Eduardo. Sou desenvolvedor full-stack e DevOps, atualmente trabal
 
 ##
 
+<div class="ferramentas">
+<h3 align=center>Certificações:</h3>
+<div align="center" classs="tecnologias">
+<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="Python" width="105"/>
+</div>
+
 <div class="linguagens">
 <h3 align=center>Linguagens:</h3>
 <div align="center" classs="tecnologias">
@@ -65,8 +71,9 @@ Olá, me chamo Eduardo. Sou desenvolvedor full-stack e DevOps, atualmente trabal
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Python" width="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Python" width="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Python" width="35"/>
-          
 </div>
+
+
 </div>
 
 ## 
