@@ -5,7 +5,7 @@
 
 Olá, me chamo Eduardo. Sou desenvolvedor <b>full-stack</b> e <b>DevOps</b>, atualmente trabalhando como desenvolvedor na NT Treinamentos e Marketing Digital 🚀.
 
-- 💻 Desde de 2018 trabalhando como Desenvolvedor Freelancer.
+- 💻 Desde de 2018 estudando programação e tecnologias de desenvolvimento.
 - :atualmente: Estudando C# e tecnologias de CI / CD para Infraestrutura Cloud especificamente AWS.
 - 📫 Para entrar em contato, envie um email para `eduardo.valencio.santos@gmail.com`
 - 💬 Sempre disponível para uma boa discussão e oportunidades! 
