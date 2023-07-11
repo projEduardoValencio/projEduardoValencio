@@ -6,7 +6,7 @@
 Olá, me chamo Eduardo. Sou desenvolvedor <b>full-stack</b> e <b>DevOps</b>, atualmente trabalhando como desenvolvedor na NT Treinamentos e Marketing Digital 🚀.
 
 - 💻 Desde de 2018 estudando programação e tecnologias de desenvolvimento.
-- :atualmente: Estudando C# e tecnologias de CI / CD para Infraestrutura Cloud especificamente AWS.
+- ✒️: Estudando Java e boas práticas de programação e desenvolvimento de software
 - 📫 Para entrar em contato, envie um email para `eduardo.valencio.santos@gmail.com`
 - 💬 Sempre disponível para uma boa discussão e oportunidades! 
 > Sempre desenvolver e se desenvolver
@@ -23,6 +23,7 @@ Olá, me chamo Eduardo. Sou desenvolvedor <b>full-stack</b> e <b>DevOps</b>, atu
 <h3 align=center>Linguagens:</h3>
 <div align="center" classs="tecnologias">
 <img src="https://skillicons.dev/icons?i=go" />
+<img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=py" />
 <img src="https://skillicons.dev/icons?i=cs" />
 <img src="https://skillicons.dev/icons?i=ts" />
