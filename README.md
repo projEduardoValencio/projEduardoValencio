@@ -3,12 +3,12 @@
 <p align="center"><img src="https://media2.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif?cid=790b76111118bd310d43c11016fa3b521584d57d6e6755b7&rid=giphy.gif&ct=g" width="150" align=center></p>
 <h1 align="center">Hello 👋</h1>
 
-Olá, me chamo Eduardo. Sou desenvolvedor <b>full-stack</b> e <b>DevOps</b>, atualmente trabalhando como desenvolvedor na NT Treinamentos e Marketing Digital 🚀.
+Olá, me chamo Eduardo. Sou desenvolvedor <b>full-stack</b> e <b>DevOps</b>, atualmente trabalhando como desenvolvedor na Support - Soluções ERP 🚀.
 
 - 💻 Desde de 2018 estudando programação e tecnologias de desenvolvimento.
 - ✒️: Estudando Java e boas práticas de programação e desenvolvimento de software
 - 📫 Para entrar em contato, envie um email para `eduardo.valencio.santos@gmail.com`
-- 💬 Sempre disponível para uma boa discussão e oportunidades! 
+- 💬 Sempre disponível para uma boa conversa e oportunidades! 
 > Sempre desenvolver e se desenvolver
 
 ##
