@@ -6,7 +6,7 @@
 Olá, me chamo Eduardo. Sou desenvolvedor <b>full-stack</b> e <b>DevOps</b>, atualmente trabalhando como desenvolvedor na Support - Soluções ERP 🚀.
 
 - 💻 Desde de 2018 estudando programação e tecnologias de desenvolvimento.
-- ✒️: Estudando Java e boas práticas de programação e desenvolvimento de software
+- ✒️: Me especializar em C# e boas práticas de programação e desenvolvimento WEB, Desktop e Mobile
 - 📫 Para entrar em contato, envie um email para `eduardo.valencio.santos@gmail.com`
 - 💬 Sempre disponível para uma boa conversa e oportunidades! 
 > Sempre desenvolver e se desenvolver
