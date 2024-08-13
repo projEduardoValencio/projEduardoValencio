@@ -31,6 +31,8 @@ Olá, me chamo Eduardo. Sou desenvolvedor <b>full-stack</b> e <b>DevOps</b>, atu
 <img src="https://skillicons.dev/icons?i=dart" />
 <img src="https://skillicons.dev/icons?i=php" />
 <img src="https://skillicons.dev/icons?i=bash" />
+<img src="https://skillicons.dev/icons?i=clojure" />
+  
 </div>
 </div>
 
@@ -38,6 +40,7 @@ Olá, me chamo Eduardo. Sou desenvolvedor <b>full-stack</b> e <b>DevOps</b>, atu
 <h3 align=center>Frameworks e Bibliotecas</h3>
 <div align=center>
 <img src="https://skillicons.dev/icons?i=flutter"/>
+<img src="https://skillicons.dev/icons?i=angular"/>
 <img src="https://skillicons.dev/icons?i=react"/>
 <img src="https://skillicons.dev/icons?i=redux"/>
 <img src="https://skillicons.dev/icons?i=nextjs"/>
@@ -65,6 +68,7 @@ Olá, me chamo Eduardo. Sou desenvolvedor <b>full-stack</b> e <b>DevOps</b>, atu
 <img src="https://skillicons.dev/icons?i=ansible"/>
 <img src="https://skillicons.dev/icons?i=githubactions"/>
 <img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=kafka"/>
 <img src="https://skillicons.dev/icons?i=mysql"/>
 <img src="https://skillicons.dev/icons?i=sqlite"/>
 <img src="https://skillicons.dev/icons?i=firebase"/>
@@ -73,9 +77,23 @@ Olá, me chamo Eduardo. Sou desenvolvedor <b>full-stack</b> e <b>DevOps</b>, atu
 <img src="https://skillicons.dev/icons?i=latex"/>
 <img src="https://skillicons.dev/icons?i=neovim"/>
 <img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=emacs"/>
+<img src="https://skillicons.dev/icons?i=rider"/>
+<img src="https://skillicons.dev/icons?i=visualstudio"/>	
 <img src="https://skillicons.dev/icons?i=ps"/>
+
+
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Python" width="35"/> -->
 
+</div>
+
+<div class="distros">
+<h3 align=center>Distros Linux</h3>
+<div align=center>
+<img src="https://skillicons.dev/icons?i=arch"/>
+<img src="https://skillicons.dev/icons?i=ubuntu"/>
+<img src="https://skillicons.dev/icons?i=debian"/>
+</div>
 </div>
 
 
