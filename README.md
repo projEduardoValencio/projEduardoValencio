@@ -1,27 +1,25 @@
-
-
 <p align="center"><img src="https://media2.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif?cid=790b76111118bd310d43c11016fa3b521584d57d6e6755b7&rid=giphy.gif&ct=g" width="150" align=center></p>
 <h1 align="center">Hello 👋</h1>
 
-Olá, me chamo Eduardo. Sou desenvolvedor <b>full-stack</b> e <b>DevOps</b>, atualmente trabalhando como desenvolvedor na Support - Soluções ERP 🚀.
+Hello, my name is Eduardo. I am a <b>full-stack</b> and <b>DevOps</b> developer, currently working as a developer at MJV - Technology & Innovation 🚀.
 
-- 💻 Desde de 2018 estudando programação e tecnologias de desenvolvimento.
-- ✒️: Me especializar em C# e boas práticas de programação e desenvolvimento WEB, Desktop e Mobile
-- 📫 Para entrar em contato, envie um email para `eduardo.valencio.santos@gmail.com`
-- 💬 Sempre disponível para uma boa conversa e oportunidades! 
-> Sempre desenvolver e se desenvolver
+- 💻 Programming and development technologies enthusiast since 2018.
+- ✒️: My focus is on specializing in Machine Learning and best practices for web, desktop, and mobile development.
+- 📫 Feel free to reach out via email at `eduardo.valencio.santos@gmail.com`.
+- 💬 Always available for a good conversation and new opportunities! 
+> Always develop and self-develop.
 
 ##
 
-<div class="ferramentas">
-<h3 align=center>Certificações:</h3>
-<div align="center" classs="tecnologias">
-<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="Python" width="105"/>
+<div class="certifications">
+<h3 align=center>Certifications:</h3>
+<div align="center" class="technologies">
+<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="AWS Certification" width="105"/>
 </div>
 
-<div class="linguagens">
-<h3 align=center>Linguagens:</h3>
-<div align="center" classs="tecnologias">
+<div class="languages">
+<h3 align=center>Languages:</h3>
+<div align="center" class="technologies">
 <img src="https://skillicons.dev/icons?i=go" />
 <img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=py" />
@@ -32,12 +30,11 @@ Olá, me chamo Eduardo. Sou desenvolvedor <b>full-stack</b> e <b>DevOps</b>, atu
 <img src="https://skillicons.dev/icons?i=php" />
 <img src="https://skillicons.dev/icons?i=bash" />
 <img src="https://skillicons.dev/icons?i=clojure" />
-  
 </div>
 </div>
 
-<div class="tecnologias">
-<h3 align=center>Frameworks e Bibliotecas</h3>
+<div class="frameworks">
+<h3 align=center>Frameworks and Libraries:</h3>
 <div align=center>
 <img src="https://skillicons.dev/icons?i=flutter"/>
 <img src="https://skillicons.dev/icons?i=angular"/>
@@ -56,10 +53,9 @@ Olá, me chamo Eduardo. Sou desenvolvedor <b>full-stack</b> e <b>DevOps</b>, atu
 </div>
 </div>
 
-<div class="ferramentas">
-<h3 align=center>Ferramentas:</h3>
-<div align="center" classs="tecnologias">
-
+<div class="tools">
+<h3 align=center>Tools:</h3>
+<div align="center" class="technologies">
 <img src="https://skillicons.dev/icons?i=aws"/>
 <img src="https://skillicons.dev/icons?i=docker"/>
 <img src="https://skillicons.dev/icons?i=kubernetes"/>
@@ -81,21 +77,16 @@ Olá, me chamo Eduardo. Sou desenvolvedor <b>full-stack</b> e <b>DevOps</b>, atu
 <img src="https://skillicons.dev/icons?i=rider"/>
 <img src="https://skillicons.dev/icons?i=visualstudio"/>	
 <img src="https://skillicons.dev/icons?i=ps"/>
-
-
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Python" width="35"/> -->
-
 </div>
 
 <div class="distros">
-<h3 align=center>Distros Linux</h3>
+<h3 align=center>Linux Distros:</h3>
 <div align=center>
 <img src="https://skillicons.dev/icons?i=arch"/>
 <img src="https://skillicons.dev/icons?i=ubuntu"/>
 <img src="https://skillicons.dev/icons?i=debian"/>
 </div>
 </div>
-
 
 </div>
 
