@@ -1,11 +1,12 @@
 <p align="center"><img src="https://media2.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif?cid=790b76111118bd310d43c11016fa3b521584d57d6e6755b7&rid=giphy.gif&ct=g" width="150" align=center></p>
 <h1 align="center">Hello 👋</h1>
 
-Hello, my name is Eduardo. I am a <b>full-stack</b> and <b>DevOps</b> developer, currently working as a developer at MJV - Technology & Innovation 🚀.
+Hello, my name is Eduardo. I am a <b>Full-stack</b> Software Engineer specialized in .NET C# and TypeScript Frameworks like AngularJS and ReactJS 🚀.
 
 - 💻 Programming and development technologies enthusiast since 2018.
 - ✒️: My focus is on specializing in Machine Learning and best practices for web, desktop, and mobile development.
 - 📫 Feel free to reach out via email at `eduardo.valencio.santos@gmail.com`.
+- 📀 My current favorite distro is <b>ARCH LINUX</b>. And yes I can develop .NET applications on Linux OS.
 - 💬 Always available for a good conversation and new opportunities! 
 > Always develop and self-develop.
 
@@ -18,7 +19,7 @@ Hello, my name is Eduardo. I am a <b>full-stack</b> and <b>DevOps</b> developer,
 </div>
 
 <div class="languages">
-<h3 align=center>Languages:</h3>
+<h3 align=center>Languages that I've worked:</h3>
 <div align="center" class="technologies">
 <img src="https://skillicons.dev/icons?i=go" />
 <img src="https://skillicons.dev/icons?i=java" />
